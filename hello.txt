@@ -15,3 +15,4 @@ hello!
 hello! master
 hello! hot-fix test
 master
+hot-fix
